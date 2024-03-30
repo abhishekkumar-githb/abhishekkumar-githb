@@ -1,4 +1,4 @@
-![MasterHead](https://https://camo.githubusercontent.com/0493a4742c3429766be402cdfb8e4a976fba18e6368c7920b9aa83ff777371d6/68747470733a2f2f7777772e736576656e73746172776562736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f7468656d65732f736576656e737461722f696d672f62616e6e65722d62672e676966)
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
