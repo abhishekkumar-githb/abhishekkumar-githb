@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+![MasterHead]([https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSurya9263%2FSurya9263&psig=AOvVaw0f5UDBwll_seRKSZjUTv_d&ust=1736956447612000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKivuZLJ9YoDFQAAAAAdAAAAABAE))
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
